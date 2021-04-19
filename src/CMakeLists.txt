@@ -1,7 +1,9 @@
-# (c) Arnav Yash Chandra 2020.
-# Distributed under the Boost Software License, Version 1.0.
-# (See accompanying file LICENSE or copy at
-# https://www.boost.org/LICENSE_1_0.txt)
+# SPDX-FileCopyrightText: 2021 arnavyc
+# 
+# SPDX-License-Identifier: 0BSD
+# 
+# Distributed under the BSD Zero Clause License
+# (See accompanying file LICENSE)
 
 # add a target executable `sndfile-alsa` to the project
 add_executable(sndfile-alsa sndfile-alsa.c)
